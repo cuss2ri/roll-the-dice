@@ -1,0 +1,47 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.minicontainer{
+  display: flex;
+  align-content: center;
+}
+.dice {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%; 
+  text-align: center;
+}
+body {
+  background-color: #003e4b;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #90E0EF;
+}
+
+p {
+  font-size: 2rem;
+  color: #90E0EF;
+  font-family: serif, cursive;
+}
+
+img {
+  width: 80%;
+  display: block;
+  vertical-align: middle;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: serif, cursive;
+
+}
